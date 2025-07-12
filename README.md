@@ -1,10 +1,3 @@
-Perfect — here's your updated and final **README.md** with the proper mention that **version 2 is based on Johnson et al.** (the famous paper *"Perceptual Losses for Real-Time Style Transfer and Super-Resolution"* by Justin Johnson et al., CVPR 2016).
-
-You can copy-paste this directly:
-
----
-
-```markdown
 # 🎨 Neural Style Transfer with Transformer Network
 
 A fast and efficient neural style transfer project that applies artistic styles to images using a Transformer-based deep learning architecture. Designed for real-time performance, the model incorporates **depthwise-separable convolutions**, **residual connections**, **SE attention**, and **VGG-based perceptual loss** for high-quality results.
